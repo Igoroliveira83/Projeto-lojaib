@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    order: 5;
+    flex-direction: row;
+    justify-content: center;            
+    padding: 30px;
+    
+
+   
+}
+img#logo {
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+}
